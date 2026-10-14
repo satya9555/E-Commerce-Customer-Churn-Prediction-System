@@ -1,0 +1,30 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+joblib
+jupyter
+xgboost
+matplotlib
+seaborn
+tqdm
+plotly
+<<<<<<< HEAD
+pydantic
+pyyaml
+=======
+
+git 
+vscode
+docker
+postman
+git
+wsl 
+>>>>>>> 3554c6e5fcf397d55f5278e3ea736a46a9e97080
+
+extension
+python
+pylance 
+rainbowcsv
+gitlens
